@@ -1,0 +1,6 @@
+WI-FI,One-day Wi-Fi access,1.00 
+GYM-PEP,Per entry pass to gym (Level 4-01),1.00 
+SWIM-PEP,Per entry pass to swimming pool (Level 2 outdoor),1.50 
+BIZ-PEP,Per entry pass to business centre (Level 3-03),2.00 
+BREAKFAST,Breakfast buffet at Sun café (Level 1-01 6am to 10am),8.99 
+HI-TEA,Hi-Tea buffet at Sun café (Level 1-01 2pm to 4pm),11.99 

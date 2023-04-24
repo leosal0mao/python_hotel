@@ -1,0 +1,15 @@
+SHAMPOO-1,One sachet of conditioning shampoo,0.29,0 
+SHOWER-1,One sachet of shower gel,0.25,0 
+TOWEL-B,One bath towel (to return when check-out),1.50,0 
+TOWEL-H,One hand towel (to return when check-out),1.00,0 
+SHOW-CAP,One shower cap,0.49,0 
+SHA-RAZOR,One disposable shaving razor (men’s),2.99,0 
+SHA-CREAM,One sachet of shaving cream (men’s),0.29,0 
+HAIR-DRY,Hair Dryer (to return when check-out),2.00,0.1 
+SLIPPERS,One pair of disposable slippers,4.59,0.1 
+WALLED-TV,Walled-TV,3.99,0 
+FRIDGE,Mini Fridge (50L),4.59,0.25 
+TABLE-B,Bedside table (60cm x 50cm),2.59,0.3 
+DESK-W,Writing desk (80cm x 55cm),3.99,0.44 
+CHAIR,Foldable Chair (42cm x 38cm),2.59,0.16 
+IRON-B,Iron and ironing board (128cm x 30cm),2.99,0.4
